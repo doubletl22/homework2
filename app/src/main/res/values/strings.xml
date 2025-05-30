@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">homework2</string>
+    <string name="title_verify_code">Xác minh Mã</string>
+    <string name="description_verify_code">Nhập mã chúng tôi vừa gửi cho bạn qua Email đã đăng ký (%1$s).</string>
+    <string name="error_invalid_otp">Mã OTP không hợp lệ. Vui lòng thử lại.</string>
+    <string name="error_otp_incomplete">Vui lòng nhập đầy đủ mã OTP.</string>
+    <string name="info_verification_successful">Xác minh thành công!</string>
+    <string name="action_back">Quay lại</string>
+    <string name="button_next">Tiếp tục</string>
+    <string name="homework2">homework2</string>
+
+</resources>
