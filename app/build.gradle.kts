@@ -50,7 +50,7 @@ dependencies {
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
     implementation(libs.androidx.navigation.compose)
-
+    implementation(libs.androidx.multidex) // Sử dụng alias từ libs.versions.toml
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
